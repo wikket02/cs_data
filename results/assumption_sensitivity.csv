@@ -1,0 +1,9 @@
+scenario,mean_adj_r2,top_domain_by_seed,top_is_AC_seeds,mean_n_sig,h1_pass_seeds,h3_pass_seeds,h2_pass_seeds
+Baseline (reported),0.7423844422403876,"AC,AC,AC,AC,AC",5,5.4,5,5,1
+All domain means -0.25,0.7426241672119771,"AC,AC,AC,AC,AC",5,5.4,5,5,1
+All domain means +0.25,0.7427376431978587,"AC,AC,AC,AC,AC",5,5.4,5,5,1
+All domain SDs x 0.75,0.7423308784531827,"AC,AC,AC,AC,AC",5,5.4,5,5,1
+All domain SDs x 1.25,0.7430545900540061,"AC,AC,AC,AC,AC",5,5.4,5,5,1
+"Identical domain distributions (mean 1.25, SD 0.60)",0.7421246434052181,"AC,AC,AC,AC,AC",5,5.6,5,5,1
+Equal domain weights (1/6 each),0.7416876257392625,"AC,AA,IA,AC,RA",2,6.0,5,5,0
+Reversed domain weights (RA .25 ... AC .10),0.7409679764645491,"AA,RA,RA,RA,RA",0,5.6,5,5,1

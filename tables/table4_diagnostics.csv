@@ -1,0 +1,11 @@
+Test,Statistic,Value,Decision Criterion,Result
+VIF - Access Control,VIF,1.84,< 5.00,Satisfactory
+VIF - Incident Response,VIF,1.54,< 5.00,Satisfactory
+VIF - Config. Management,VIF,2.21,< 5.00,Satisfactory
+VIF - Audit & Accountability,VIF,2.04,< 5.00,Satisfactory
+VIF - ID & Authentication,VIF,1.85,< 5.00,Satisfactory
+VIF - Risk Assessment,VIF,1.91,< 5.00,Satisfactory
+Residual Normality,Shapiro-Wilk W,0.996,p > .05 (p = .883),Satisfactory
+Heteroscedasticity,Breusch-Pagan LM(6),4.82,p > .05 (p = .567),Satisfactory
+Autocorrelation,Durbin-Watson d,1.92,1.50 to 2.50,Satisfactory
+Influential Cases,Cook's D > 4/n,16 cases,Sensitivity re-run,Max coefficient change 56% (IA); see text

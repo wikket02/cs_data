@@ -1,0 +1,13 @@
+Perturbed Domain,Direction,Adjusted Weight,Nominal Weight,Mean |Score Shift|,Spearman rho
+Access Control,+20%,0.300,0.250,0.64,0.998
+Access Control,-20%,0.200,0.250,0.64,0.998
+Incident Response,+20%,0.240,0.200,0.62,0.998
+Incident Response,-20%,0.160,0.200,0.62,0.998
+Config. Management,+20%,0.216,0.180,0.46,0.999
+Config. Management,-20%,0.144,0.180,0.46,0.999
+Audit & Accountability,+20%,0.180,0.150,0.39,0.999
+Audit & Accountability,-20%,0.120,0.150,0.39,0.999
+ID & Authentication,+20%,0.144,0.120,0.28,1.000
+ID & Authentication,-20%,0.096,0.120,0.28,0.999
+Risk Assessment,+20%,0.120,0.100,0.25,1.000
+Risk Assessment,-20%,0.080,0.100,0.25,1.000
