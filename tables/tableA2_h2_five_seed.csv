@@ -1,0 +1,6 @@
+Seed,Min rho (coefficient ordering),Min rho (priority ordering),H2 pass (rho >= .80)?
+42,0.943,1.000,Yes
+101,0.943,1.000,Yes
+202,0.943,0.943,Yes
+303,0.943,1.000,Yes
+404,0.829,0.886,Yes
