@@ -1,6 +1,6 @@
 # Replication package: Two-Stage Composite Readiness Score Framework for SME Defense Suppliers
 
-Repository: [Insert GitHub Repository URL Here]
+Repository: [wikket02/cs_data]
 
 All data in this package are **synthetic**. They were generated from researcher-defined assumptions (distribution parameters,
 domain weights, correlation values, noise level) and do not describe any real supplier, assessment, or restricted data.
